@@ -8,69 +8,7 @@ import about3 from "../../api/Assets/img/post-portrait-7.jpg";
 // import Paritosh from '../../'
 
 const About = () => {
-  //   const team=[
-  // {
-  //   name:'Amit Kumar Rai',
-  //   position:'Manager',
-  //   img:'https://storage.googleapis.com/journals-stmjournals-com-wp-media-to-gcp-offload/2023/08/313a774a-amit-150x150.jpg',
-  //   nature:''
-  // },
-  // {
-  //   name:'Vivek Verma',
-  //   position:'Team Leader',
-  //   img:'https://storage.googleapis.com/journals-stmjournals-com-wp-media-to-gcp-offload/2023/08/e7552759-vivek-150x150.jpg',
-  //   nature:''
-  // },
-  // {
-  //   name:'Preeti Singh',
-  //   position:'Software developer',
-  //   img:'https://storage.googleapis.com/journals-stmjournals-com-wp-media-to-gcp-offload/2023/08/be042411-img-20230818-wa0007-150x150.jpg',
-  //   nature:''
-  // },
-  // {
-  //   name:'Shreyash Jadaun',
-  //   position:'Software developer',
-  //   img:'https://storage.googleapis.com/journals-stmjournals-com-wp-media-to-gcp-offload/2023/08/c4fe5479-img-20230818-wa0010-150x150.jpg',
-  //   nature:''
-  // },
-  // {
-  //   name:'Paritosh Chauhan',
-  //   position:'Software developer',
-  //   img:'https://storage.googleapis.com/journals-stmjournals-com-wp-media-to-gcp-offload/2023/08/80750a15-img-20230818-wa0011-150x150.jpg',
-  //   nature:''
-  // },
 
-  // {
-  //   name:'Lovender Nigam',
-  //   position:'Software developer',
-  //   img:Lovender,
-  //   nature:''
-  // },
-  // {
-  //   name:'Shubham Gautam',
-  //   position:'Software developer',
-  //   img:'https://storage.googleapis.com/journals-stmjournals-com-wp-media-to-gcp-offload/2023/08/7ff27b6d-img-20230818-wa0013-1-150x150.jpg',
-  //   nature:''
-  // },
-  // {
-  //   name:'Anshika Tiwari',
-  //   position:'Software developer',
-  //   img:'https://storage.googleapis.com/journals-stmjournals-com-wp-media-to-gcp-offload/2023/08/f9920696-img-20230818-wa0008-150x150.jpg',
-  //   nature:''
-  // },
-  // {
-  //   name:'Keshvam Srivastava',
-  //   position:'Software developer',
-  //   img:'https://storage.googleapis.com/journals-stmjournals-com-wp-media-to-gcp-offload/2023/08/ebe966fd-img-20230818-wa0009-150x150.jpg',
-  //   nature:''
-  // },
-  // // {
-  // //   name:'Aditi Mantri',
-  // //   position:'Software developer',
-  // //   img:'https://storage.googleapis.com/journals-stmjournals-com-wp-media-to-gcp-offload/2023/08/1b23485e-aditi-150x150.jpg',
-  // //   nature:''
-  // // },
-  //   ]
 
   return (
     <>
@@ -79,7 +17,7 @@ const About = () => {
           <div className="container" data-aos="fade-up">
             <div className="row">
               <div className="col-lg-12 text-center mb-5">
-                <h1 className="page-title" style={{color: "#1d5818"}}>About us</h1>
+                <h1 className="page-title" style={{color: "#1d5818"}}>About STM Conference</h1>
               </div>
             </div>
             <div className="row mb-5">
